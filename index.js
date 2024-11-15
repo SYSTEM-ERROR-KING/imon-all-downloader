@@ -7,8 +7,8 @@ module.exports.alldown = (url) =>
 
       resolve({
         status: true,
-        devfb: "https://www.facebook.com/profile.php?id=100000959749712",
-        devwp: "wa.me/+8801615298449", 
+        devfb: "https://www.facebook.com/Imon.132233?mibextid=ZbWKwL",
+        devwp: "wa.me/+8801318582357", 
         data: data || msg,
       });
     } catch (error) {
