@@ -1,15 +1,53 @@
 {
-  "name": "nodejs",
-  "version": "0.0.0",
-  "description": "",
+  "name": "imon-media-downloader",
+  "version": "1.0.7",
+  "description": "Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imon-404/imon-media-downloader"
+  },
+  "keywords": [
+    "instagram",
+    "downloader",
+    "media",
+    "link",
+    "tiktok",
+    "tikvm",
+    "video",
+    "fbdownload",
+    "twdown.net",
+    "fbdownload",
+    "download",
+    "facebook",
+    "fbdown",
+    "youtube",
+    "yt download",
+    "Twitter",
+    "gdrive",
+    "drive link",
+    "google drive",
+    "pintarest",
+    "all media download",
+    "media download",
+    "capcut",
+    "likee",
+    "threads",
+    "imran"
+  ],
+  "author": "imon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/imon-404/imon-media-downloader/issues"
+  },
+  "homepage": "https://github.com/MR-IMRAN-60/imon-media-downloader#readme",
+
   "dependencies": {
+    "axios": "^1.4.0",
     "nayan-media-downloader": "^2.6.6"
   }
 }
