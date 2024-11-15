@@ -44,7 +44,7 @@
   "bugs": {
     "url": "https://github.com/imon-404/imon-media-downloader/issues"
   },
-  "homepage": "https://github.com/MR-IMRAN-60/imon-media-downloader#readme",
+  "homepage": "https://github.com/imon-404/imon-media-downloader#readme",
 
   "dependencies": {
     "axios": "^1.4.0",
