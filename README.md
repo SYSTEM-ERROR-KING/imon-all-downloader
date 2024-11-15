@@ -53,3 +53,15 @@ nayan.alldown('url')
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/Imon.132233?mibextid=ZbWKwL)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/100075122837809)
 [![Github](https://img.shields.io/badge/Github-MrDarkYTgreen?style=for-the-badge&logo=github)](https://github.com/imon-404)
+
+
+# developer information 
+#### 𝐍𝐚𝐦𝐞        : 𝐌𝐨𝐡𝐚𝐦𝐦𝐚𝐝 𝐈𝐦𝐨𝐧
+#### 𝐑𝐞𝐥𝐥𝐠𝐥𝐨𝐧    : (𝐈𝐬𝐥𝐚𝐦)
+#### 𝐏𝐞𝐫𝐦𝐚𝐧𝐞𝐭 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : (𝐃𝐡𝐚𝐤𝐚,𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡)
+#### 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐀𝐝𝐝𝐫𝐞𝐬𝐬 : (𝐁𝐚𝐫𝐢𝐬𝐡𝐚𝐥,𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡)
+#### 𝐆𝐞𝐧𝐝𝐞𝐫     : (𝐌𝐚𝐥𝐞)
+#### 𝐀𝐠𝐞            :  (21)
+#### 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐬𝐡𝐢𝐩 : (𝐒𝐢𝐧𝐠𝐥𝐞)
+#### 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦  : t.me/Farhan_islam12
+### [Facebook](https://www.facebook.com/Imon.132233?mibextid=ZbWKwL)
