@@ -29,7 +29,8 @@ const url = 'url' // past url
 
   alldown(url).then(data => {
   console.log(data)
-    });```
+    });
+```
 ## Output Example (alldown)
 ```
 {
