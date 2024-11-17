@@ -24,15 +24,12 @@ support url: facebook, tiktok, twitter, instagram, youtube, pinterest, gdrive, c
 note: Let me know if any of the platforms you use are missing
 ```
 ```js
-const nayan = require('imon-media-downloader');
+const nayan = require('imon-media-const {alldown} = require("imon-media-downloader");
+const url = 'url' // past url
 
-nayan.alldown('url')
-  .then(data => {
-    console.log(data);
-  })
-  .catch(error => {
-    console.error('Error downloading:', error);
-  });
+  alldown(url).then(data => {
+  console.log(data)
+    });
 ```
 ## Output Example (alldown)
 ```
