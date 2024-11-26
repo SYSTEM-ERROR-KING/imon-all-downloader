@@ -7,14 +7,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+IMON-404+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+IMON-404+🥀;Thanks+My+All+Friend+🤙+🥰)](https://git.io/typing-svg)
 
 
-<a href="https://www.npmjs.com/package/imon-media-downloader"><img alt="npm version" src="https://img.shields.io/npm/v/imon-media-downloader.svg?style=flat-square"></a>
-<img alt="version" src="https://img.shields.io/github/package-json/v/imon-404/imon-media-downloader?label=github&style=flat-square">
-<a href="https://www.npmjs.com/package/imon-media-downloader"><img src="https://img.shields.io/npm/dm/imran-dlmedia.svg?style=flat-square" alt="npm downloads"></a>
-[![js dilvr](https://data.jsdelivr.com/v1/package/npm/imran-dlmedia/badge)](https://www.jsdelivr.com/package/npm/imon-media-downloader)
+<a href="https://www.npmjs.com/package/imon-all-downloader"><img alt="npm version" src="https://img.shields.io/npm/v/imon-all-downloader.svg?style=flat-square"></a>
+<img alt="version" src="https://img.shields.io/github/package-json/v/imon-404/imon-all-downloader?label=github&style=flat-square">
+<a href="https://www.npmjs.com/package/imon-all-downloader"><img src="https://img.shields.io/npm/dm/imom-all-downloader.svg?style=flat-square" alt="npm downloads"></a>
+[![js dilvr](https://data.jsdelivr.com/v1/package/npm/imon-all-downloader/badge)](https://www.jsdelivr.com/package/npm/imon-all-downloader)
 
 ## Instalation :
 ```bash
-> npm imon-media-downloader
+> npm imon-all-downloader
 ```
 
 
@@ -24,7 +24,7 @@ support url: facebook, tiktok, twitter, instagram, youtube, pinterest, gdrive, c
 note: Let me know if any of the platforms you use are missing
 ```
 ```js
-const {alldown} = require("imon-media-downloader");
+const {alldown} = require("imon-all-downloader");
 const url = 'url' // past url
 
   alldown(url).then(data => {
